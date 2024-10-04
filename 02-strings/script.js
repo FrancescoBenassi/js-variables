@@ -2,7 +2,7 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-const myName = 'Francesco'
+const myName = 'Francesco';
 console.log(myName);
 
 // 2. Tipi primitivi
@@ -17,7 +17,7 @@ const text = 'Ciao';
 console.log(text);
 
 const bool = true;
-console.log(bool)
+console.log(bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
